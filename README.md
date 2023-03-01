@@ -1,6 +1,6 @@
 # Startpage
 
-[Live Preview](https://kencx.github.io/startpage/) - no ide what I'm doing
+[Live Preview]([https://krstfz.github.io/ff-startpage/]) - no ide what I'm doing
 
 
 - Font: Fira Code
